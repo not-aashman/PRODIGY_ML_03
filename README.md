@@ -6,7 +6,7 @@ This repository contains the implementation of an image classification model usi
 ## Dataset
 The dataset used for this task consists of 12,500 images of cats and dogs, with 6,250 images for each class (cat and dog). These images were resized to 64x64 pixels and labeled accordingly. Due to the large size of the dataset, it cannot be uploaded directly to this repository. You can download the dataset from the following link:
 
-**[Download Cat vs. Dog Dataset](#)**
+**[Download Cat vs. Dog Dataset](https://www.kaggle.com/c/dogs-vs-cats/data)**
 
 Once downloaded, place the dataset in the appropriate directory as outlined in the code.
 
