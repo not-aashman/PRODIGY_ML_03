@@ -4,9 +4,13 @@
 This repository contains the implementation of an image classification model using Support Vector Machines (SVM) to classify Cat vs. Dog images. The task was performed as part of the Machine Learning Internship Program at Prodigy InfoTech.
 
 ## Dataset
-The dataset used for this task consists of 12,500 images of cats and dogs, with 6,250 images for each class (cat and dog). These images were resized to 64x64 pixels and labeled accordingly. The dataset was split into a training set and a test set for model evaluation.
+The dataset used for this task consists of 12,500 images of cats and dogs, with 6,250 images for each class (cat and dog). These images were resized to 64x64 pixels and labeled accordingly. Due to the large size of the dataset, it cannot be uploaded directly to this repository. You can download the dataset from the following link:
 
-## Dataset Features:
+**[Download Cat vs. Dog Dataset](#)**
+
+Once downloaded, place the dataset in the appropriate directory as outlined in the code.
+
+### Dataset Features:
 - **Images**: 64x64 pixel images, with two categories: Cat and Dog.
 - **Labels**: 'cat' or 'dog'.
 
